@@ -1,0 +1,396 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 30px;
+    border-radius: 80px;
+}
+.logoes{
+    width: 40px;
+    height: 30px;
+    border-radius: 80px;
+}
+.log{
+    display: inline;
+    margin: 5px
+}
+.nab{
+    display: inline;
+    background-color: white;
+    padding: 5px;
+    border:2px solid lightblue;
+    margin: 10px;
+    box-shadow: 1px 0px 8px green;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#main{
+    display: flex;
+}
+#navbar{
+    margin-left: 650px;
+    margin-top: 20px
+}
+#sociallink{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+#main{
+    background-color: #276CD5;
+}
+#navbar{
+    margin-top: 25px;
+}
+/* Second NAVBAR */
+#sylanilog{
+    width: 200px;
+    height: 100px;
+}
+#syllanilogo{
+    margin-left: 20px
+}
+.nab2{ 
+    display:inline-block;
+    margin: 10px;
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#main2{
+    display: flex;
+    position: relative;
+}
+#navbar2{
+    margin:10px 0px 0px 450px;
+}
+#Active{
+    background-color: #276CD5;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+}
+#slid1{
+    width: 100%;
+}
+#marq{
+    background-color:#276CD5;
+    color: white;
+    padding: 9px;
+}
+#marqued_p{
+    font-size: 20px;
+}
+#green{
+    color: green;
+}
+#news{
+    color: blue;
+}
+#below{
+    color: cyan;
+}
+#intro{
+    color:#276CD5;
+}
+#duction{
+    color: green;
+}
+#heading{
+    color: green;
+}
+#marqueheading{
+    margin: 2px 20px 2px 30px;
+}
+#introduction{
+    text-align: center;
+    margin-top: 20px;
+}
+#lowerlogo{
+    display: block;
+    margin: auto;
+    width: 3%;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+#logolower{
+    margin-top: 15px;
+}
+#paragraph{
+    margin-top:20px;
+}
+#main4{
+    background-color: #EAE9E9;
+    padding: 10px;
+}
+#paragraph{
+    padding: 0px 120px 10px 130px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#main5{
+    padding-left: 480px;
+    background-color: blue;
+
+}
+#month{
+    color: #1EBB59;
+}
+#quantity{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    padding-left: 34px;
+    padding-top: 10px;
+}
+#Monthly{
+    color: white;
+}
+#month{
+    font-size: 20px;
+}
+.logeso{
+    width: 50px;
+    padding-top: 20px;
+    padding-left: 120px;
+}
+#food,#Family,#Medical,#Education{
+    margin:0px 0px 5px 0px;
+    padding: 50px;
+}
+#ma2{
+    color: green;
+    text-align: center;
+}
+#main6_p1{
+    padding-top: 30px;
+    font-size: 40px;
+    
+}
+#main6{
+    background-color:#EAE9E9;
+    padding: 20px;
+}
+#ma2{
+    font-size: 40px;
+}
+#main6_p2{
+    display:flex;
+    margin: 20px;
+    margin-left: 160px;
+    
+}
+#sadqa{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 40px 0px 10px;
+}
+#sad{
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.headingmain6{
+    text-align: center;
+}
+#Welfare{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 40px 0px 10px;
+}
+#welf{
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#medical{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 40px 0px 10px;
+}
+#med{
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#DASTARKHWAN{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 40px 0px 10px;
+}
+#dastr{
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#PLANT{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 40px 0px 10px;
+}
+#plant{
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#education{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 40px 0px 10px;
+}
+#edu{
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#main6_p3{
+    display:flex;
+    margin: 20px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+}
+#main7_project{
+    display: flex;
+    background-color:#EAE9E9;
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+    padding: 20px;
+    box-shadow: 4px 6px 2px lightgray;
+}
+.Headingmain7{
+    font-size: 19px;
+    color: #276CD5;
+    padding-left: 40px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#hepitice_head{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.picture{
+    padding-left: 20px;
+}
+#main7_2{
+    display: flex;
+}
+#main7_part2{
+    display: flex;
+}
+#main7paragraph{
+    background-color: lightgray;
+    width: 300px;
+    padding: 40px;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif     ;
+}
+#mission{
+    text-decoration: underline;
+    color: #1EBB59;
+}
+
+#main7_1{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+#divitwodiv{
+    margin:40px 0px 0px 350px
+}
+.imagegal{
+    width: 300px;
+}
+#gallert{
+    display: flex;
+}
+.images{
+    margin: 20px;
+    box-shadow: 2px 6px 15px black
+}
+#main8{
+    background-color: #EAE9E9;
+    margin-top: 20px;
+}
+.images :hover{
+    box-shadow: 10px 2px 5px lightslategray;
+}
+.imagegal :hover{
+    width: 270px;
+}
+#missiion{
+    text-align: center;
+}
+#main8_1{
+    padding: 30px;
+}
+.fulimag{
+    width: 45px;
+    border-radius: 100px;
+}
+.fulisize{
+    width: 50px;
+    height: 45px;
+    border-radius: 100px;
+}
+.social{
+    display: inline;
+}
+#footer{
+    display: flex;
+    background-color:black;
+    margin-top: 30px;
+}
+#links{
+    display: block;
+    margin: auto;
+}
+.cont{
+    color:lightgray;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#withus{
+    color: white;
+    padding-bottom: 30px;
+}
+#sociallinks{
+    margin-left: 20px;
+}
+#headoiffice{
+    color: white;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+#lastfooter{
+    background-color:#276CD5;
+}
+#copyright{
+    color: white;
+    padding: 20px;
+    font-size: 15px;
+    padding-left: 200px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#logolowers{
+
+}
+#lowerlogos{
+    padding-left: 650px;
+}
